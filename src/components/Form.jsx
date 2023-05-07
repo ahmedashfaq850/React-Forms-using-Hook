@@ -10,7 +10,7 @@ const Form = () => {
         <label htmlFor='email'>Email</label>
         <input type="email" name="email" id=""email/>
 
-        <label htmlFor='password'>Password</label>
+        <label htmlFor='password'>password</label>
         <input type='password' name="password" />
 
       </form>
